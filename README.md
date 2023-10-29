@@ -1,1 +1,2 @@
 # Denver-Crime-Analysis-Project
+The government of Denver has provided us with a dataset that has recorded crimes since 2017 and the features of those crimes, for example: the neighborhood it occured it, offense type, offense catergory, etc. Through this project, we are determined to collaborate with the Department of Police to the highest degree. Through this project, we are determined to uncover valuable insights in order to help out the police, but also the kind citizens of Denver. 
