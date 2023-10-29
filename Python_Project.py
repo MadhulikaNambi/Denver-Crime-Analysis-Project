@@ -5,17 +5,6 @@
 
 # ## Project Title: Law and Order: Denver Edition 
 
-# __Group Name:__ Denver Mifflin
-
-# __Group Members:__ <br>
-# Anwesha Gupta <br>
-# Boaz Edinger <br>
-# Madhulika Nambi <br>
-# Nishant Gaonkar <br>
-# Shashank Kumar Shri Venkatesh<br>
-# Sherman Savio Sequeira<br>
-# Vishal Naidu
-
 # # Introduction
 
 # When we think of Denver, its scenic beauty is the first thing that comes to mind. Due to a recent spike in crimes, Denver has become associated with crimes in peoples' minds whenever they think of the city. The Denver Police Department and the city's residents both want this perception to change. To help them protect their citizens and uphold the sense of security that Denver exudes to its residents, visitors, and onlookers, they have hired Denver Mifflin, a consultancy firm based in the city. <br>
